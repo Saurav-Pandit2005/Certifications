@@ -18,6 +18,6 @@ This repository contains my academic, technical, and professional certifications
 
 This repository serves as a record of my learning journey and continuous skill development in software development and related technologies.
 
-## 👨‍💻 Author
+## Author
 
 Saurav Pandit
