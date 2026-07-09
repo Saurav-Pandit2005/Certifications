@@ -9,6 +9,7 @@ This repository contains my academic, technical, and professional certifications
 - DBMS
 - C#
 - Microsoft
+- HackerRank
 - Spring MVC
 - Infosys Springboard
 - Software Development
