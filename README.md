@@ -9,6 +9,7 @@ This repository contains my academic, technical, and professional certifications
 - DBMS
 - C#
 - Microsoft
+- HackerRank
 - Spring MVC
 - Infosys Springboard
 - Software Development
@@ -17,7 +18,3 @@ This repository contains my academic, technical, and professional certifications
 ## Purpose
 
 This repository serves as a record of my learning journey and continuous skill development in software development and related technologies.
-
-## Author
-
-Saurav Pandit
