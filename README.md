@@ -10,6 +10,7 @@ This repository contains my academic, technical, and professional certifications
 - C#
 - Microsoft
 - HackerRank
+- Kaggel
 - AWS Academy
 - Spring MVC
 - Infosys Springboard
