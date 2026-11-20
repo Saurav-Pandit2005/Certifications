@@ -11,6 +11,7 @@ This repository contains my academic, technical, and professional certifications
 - Microsoft
 - HackerRank
 - Kaggle
+- Google Cloud
 - AWS Academy
 - Spring MVC
 - Infosys Springboard
